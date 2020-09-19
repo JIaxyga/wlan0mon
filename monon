@@ -10,7 +10,7 @@
 # - Conversion bit: not required (means no conversion - RADIOTAP
 #   instead of Ethernet)
 
-CONF="11 40 1 111 0"
+CONF="1-16 99 1 999 0"
 
 if [ "$(id -u)" != "0" ]; then
 	echo "This script must be run as root"
