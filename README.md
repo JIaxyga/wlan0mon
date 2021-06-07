@@ -1,5 +1,5 @@
 ```
-git clone http://github.com/Jlaxyga/wlan0mon/
+git clone http://github.com/JIaxyga/wlan0mon/
 
 cd wlan0mon          
 ls         
